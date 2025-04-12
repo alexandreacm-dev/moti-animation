@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="" height="80" title="" src=".github/ic_icon.png" />
+  <img alt="" height="80" title="" src=".github/ic_logo.png" />
 </h1>
 
 ![cover](.github/cover.png?style=flat)
