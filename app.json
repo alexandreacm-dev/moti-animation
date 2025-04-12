@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "animation-moti",
-    "slug": "animation-moti",
+    "name": "moti-animation",
+    "slug": "moti-animation",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
