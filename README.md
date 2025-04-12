@@ -27,6 +27,13 @@ This is a example of animation in Reanimated v3 using moti library.
 
 ## Running the project
 
+Use **yarn** or **npm install** to install the project dependencies. Then start the
+project.
+
+```cl
+npx expo start -c / yarn start
+```
+
 <br />
 
 # Project Structure
